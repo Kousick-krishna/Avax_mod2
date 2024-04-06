@@ -57,7 +57,7 @@ http://localhost:3000
 
 ## Authors
 
-Tanishq
+Kousick krishna
 
 ## License
 
